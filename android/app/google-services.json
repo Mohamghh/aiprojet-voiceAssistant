@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "77667627114",
+    "project_id": "aiproject-f2860",
+    "storage_bucket": "aiproject-f2860.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77667627114:android:59a7f1166b36d34e0cda13",
+        "android_client_info": {
+          "package_name": "com.example.ai_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCizHeRYBVu0PgutMiPYGmuRnRViUjx6Cc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
